@@ -1,0 +1,1 @@
+document.getElementById('btn').onclick=()=>{document.getElementById('out').textContent='✅ JavaScript is working perfectly!';};
